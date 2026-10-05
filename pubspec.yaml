@@ -55,16 +55,16 @@ flutter:
   uses-material-design: true
 
   # مسارات الأصول والصور المدمجة للمشاهد والخلفيات الذكية
-  assets:
-    - assets/images/
-    - assets/drawables/
-    - assets/samples/
-    - assets/backgrounds/
+   #  assets:
+   # - assets/images/
+   # - assets/drawables/
+   # - assets/samples/
+   # - assets/backgrounds/
 
   # إعدادات الخطوط العربية لدعم الواجهة بسلاسة
-  fonts:
-    - family: Cairo
-      fonts:
-        - asset: assets/fonts/Cairo-Regular.ttf
-        - asset: assets/fonts/Cairo-Bold.ttf
-          weight: 700    
+   #  fonts:
+   # - family: Cairo
+   #   fonts:
+   #  - asset: assets/fonts/Cairo-Regular.ttf
+   #  - asset: assets/fonts/Cairo-Bold.ttf
+   #       weight: 700    
