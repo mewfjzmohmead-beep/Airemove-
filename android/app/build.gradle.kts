@@ -6,7 +6,7 @@ plugins {
 
 android {
     namespace = "com.example.airemove"
-    compileSdk = flutter.compileSdkVersion
+    compileSdk = 26
     ndkVersion = flutter.ndkVersion
 
     compileOptions {
